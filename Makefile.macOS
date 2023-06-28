@@ -1,0 +1,10 @@
+CC = clang++
+CFLAGS = -Wall -Wextra
+
+keyboard-lock: keyboard-lock.cpp
+	$(CC) $(CFLAGS) -o $@ $< -framework ApplicationServices
+
+.PHONY: clean
+
+clean:
+	rm -f keyboard-lock

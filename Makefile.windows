@@ -1,0 +1,10 @@
+CC = g++
+CFLAGS = -Wall -Wextra
+
+keyboard-lock.exe: keyboard-lock.cpp
+	$(CC) $(CFLAGS) -o $@ $< -luser32
+
+.PHONY: clean
+
+clean:
+	del keyboard-lock.exe
