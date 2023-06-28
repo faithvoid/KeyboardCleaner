@@ -13,7 +13,7 @@ A simple cross-platform program that disables your keyboard until you close it! 
 - macOS: TBA
 
 - ## FAQ?
-- - What if I run it without a GUI?
-  - I have literally no idea what will happen as EVERY key is disabled when you run this. You'll probably need to restart your PC or something.
-  - - Why?
-    - Why not. 
+  - What if I run it without a GUI?
+  I have literally no idea what will happen as EVERY key is disabled when you run this. You'll probably need to restart your PC or something.
+  - Why?
+    Why not?
