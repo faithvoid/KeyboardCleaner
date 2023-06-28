@@ -7,4 +7,4 @@ keyboard-lock.exe: keyboard-lock.cpp
 .PHONY: clean
 
 clean:
-	del keyboard-lock.exe
+	del keyboard-cleaner.exe
