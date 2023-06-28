@@ -8,7 +8,7 @@ A simple cross-platform program that disables your keyboard until you close it! 
 
 ## Build Instructions:
 - Linux: Clone the repository, type "make" (make sure you have X11 dependencies installed!) and you're done!
-- BSD: Clone the repository, type "make" (make sure you have X11 dependencies installed!) and you're done!
+- BSD: TBA
 - Windows: TBA
 - macOS: TBA
 
