@@ -17,3 +17,6 @@ A simple cross-platform program that disables your keyboard until you close it! 
   I have literally no idea what will happen as EVERY key is disabled when you run this. You'll probably need to restart your PC or something.
   - Why?
     Why not?
+
+- ## TBA:
+- Wayland support(?)
