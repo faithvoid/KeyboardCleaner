@@ -7,7 +7,13 @@ A simple cross-platform program that disables your keyboard until you close it! 
 - Simple as that!
 
 ## Build Instructions:
-- Linux: Clone the repository, type "make" (make sure you have libX11 dependencies installed!) and you're done!
+- Linux: Clone the repository, type "make" (make sure you have X11 dependencies installed!) and you're done!
+- BSD: Clone the repository, type "make" (make sure you have X11 dependencies installed!) and you're done!
 - Windows: TBA
 - macOS: TBA
-- BSD: Planned, also TBA.
+
+- ## FAQ?
+- - What if I run it without a GUI?
+  - I have literally no idea what will happen as EVERY key is disabled when you run this. You'll probably need to restart your PC or something.
+  - - Why?
+    - Why not. 
