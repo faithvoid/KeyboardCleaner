@@ -1,7 +1,7 @@
 CC = g++
 CFLAGS = -Wall -Wextra
 
-keyboard-lock.exe: keyboard-lock.cpp
+keyboard-cleaner.exe: keyboard-cleaner.cpp
 	$(CC) $(CFLAGS) -o $@ $< -luser32
 
 .PHONY: clean
